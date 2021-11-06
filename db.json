@@ -1,0 +1,188 @@
+{
+  "locals": [
+    {
+      "id": 1,
+      "name": "Chicago",
+      "description": "Chicago, às margens do lago Michigan, em Illinois, é uma das maiores cidades dos EUA. Famosa pela arquitetura ousada, ela tem uma linha do horizonte repleta de arranha-céus, como o famoso John Hancock Center, a Willis Tower (antigamente chamada de Sears Tower), com 1.451 pés de altura, e a neogótica Tribune Tower. A cidade também é conhecida pelos museus, como o Art Institute of Chicago, com obras impressionistas e pós-impressionistas de destaque.",
+      "images": [
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/pexels-bob-ward-3347244.jpg"
+        },
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/pexels-bob-ward-3347244.jpg"
+        },
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/pexels-bob-ward-3347244.jpg"
+        }
+      ],
+      "created_at": "2021-11-03T00:15:06+00:00"
+    },
+    {
+      "id": 2,
+      "name": "New York",
+      "description": "A cidade de Nova York compreende 5 distritos situados no encontro do rio Hudson com o Oceano Atlântico. No centro da cidade fica Manhattan, um distrito com alta densidade demográfica que está entre os principais centros comerciais, financeiros e culturais do mundo. Entre seus pontos emblemáticos, destacam-se arranha-céus, como o Empire State Building, e o enorme Central Park. O teatro da Broadway fica em meio às luzes de neon da Times Square.",
+      "images": [
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/pexels-mohamed-almari-2168974.jpg"
+        },
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/pexels-mohamed-almari-2168974.jpg"
+        },
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/pexels-mohamed-almari-2168974.jpg"
+        }
+      ],
+      "created_at": "2021-11-03T00:15:06+00:00"
+    },
+    {
+      "id": 3,
+      "name": "Toronto",
+      "description": "Toronto, a capital da província de Ontário, é uma grande cidade canadense localizada ao longo da costa noroeste do Lago Ontário. Ela é uma metrópole dinâmica com um centro de arranha-céus imponentes, todos ofuscados pela famosa Torre CN. Toronto também tem muitos espaços verdes, incluindo desde o oval Queen’s Park até o High Park, com 400 acres de área, além de trilhas, instalações esportivas e um jardim zoológico.",
+      "images": [
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/toronto.png"
+        },
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/toronto.png"
+        },
+        {
+          "content": "https://animesvideos.s3.sa-east-1.amazonaws.com/toronto.png"
+        }
+      ],
+      "created_at": "2021-11-03T00:15:06+00:00"
+    },
+    {
+      "id": 1333,
+      "name": "Hong Kong",
+      "description": "Hong Kong, ex-colônia britânica, é um território autônomo no sudeste da China. Seu centro urbano vibrante e densamente povoado é também um porto importante e um centro financeiro global de destaque, com um horizonte marcado por arranha-céus. O distrito comercial exibe monumentos arquitetônicos como a Torre do Bank of China, de I. M. Pei. Hong Kong é também um destino importante para compras, famoso pela alfaiataria sob medida e pelo Mercado Noturno da Rua do Templo.",
+      "images": [
+        {
+          "content": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fmobile-f957c07a-bf0e-42cf-a0a5-0b1b46c37c48/ImagePicker/c6b112ba-7201-4fa7-863c-3e54ac999731.jpg"
+        }
+      ],
+      "created_at": "2021-11-06T18:49:52.540Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Ana Paula",
+      "text": "Que legal",
+      "localId": 1
+    },
+    {
+      "id": 2,
+      "name": "João Pedro",
+      "text": "Uau",
+      "localId": 1
+    },
+    {
+      "id": 3,
+      "name": "Pedro Paiva",
+      "text": "Meu Deus!",
+      "localId": 1
+    },
+    {
+      "id": 4,
+      "name": "Lucas Silva",
+      "text": "😍😍😍",
+      "localId": 1
+    },
+    {
+      "id": 5,
+      "name": "Matheus Barbosa",
+      "text": "❤️❤️❤️",
+      "localId": 1
+    },
+    {
+      "id": 6,
+      "name": "Talita",
+      "text": "💕💕",
+      "localId": 1
+    },
+    {
+      "id": 7,
+      "name": "Ana Paula",
+      "text": "Que legal",
+      "localId": 2
+    },
+    {
+      "id": 8,
+      "name": "João Pedro",
+      "text": "Uau",
+      "localId": 2
+    },
+    {
+      "id": 9,
+      "name": "Pedro Paiva",
+      "text": "Meu Deus!",
+      "localId": 2
+    },
+    {
+      "id": 10,
+      "name": "Lucas Silva",
+      "text": "😍😍😍",
+      "localId": 2
+    },
+    {
+      "id": 11,
+      "name": "Matheus Barbosa",
+      "text": "❤️❤️❤️",
+      "localId": 2
+    },
+    {
+      "id": 12,
+      "name": "Talita",
+      "text": "💕💕",
+      "localId": 2
+    },
+    {
+      "id": 6674,
+      "name": "João",
+      "text": "Que foto legal🥰🥰🥰",
+      "localId": 1
+    },
+    {
+      "id": 2071,
+      "name": "João",
+      "text": "uau",
+      "localId": 1
+    },
+    {
+      "id": 2454,
+      "name": "João",
+      "text": "Amei!!!",
+      "localId": 1
+    },
+    {
+      "id": 8713,
+      "name": "Joāo",
+      "text": "Massa!",
+      "localId": 1
+    },
+    {
+      "id": 1082,
+      "name": "Joāo",
+      "text": "Massa 🥰🥰",
+      "localId": 2
+    },
+    {
+      "id": 4398,
+      "name": "Joāo",
+      "text": "Massa!",
+      "localId": 2
+    },
+    {
+      "id": 3543,
+      "name": "Joāo",
+      "text": "Lindo 🥰🥰🥰",
+      "localId": 2970
+    },
+    {
+      "id": 8791,
+      "name": "João",
+      "text": "Lindo!!!",
+      "localId": 1333
+    }
+  ]
+}
