@@ -38,4 +38,12 @@ Com isso será instalado todas as dependências e pacotes do projeto, possibilit
 $ npm start # ou yarn start
 ```
 
+Ah, não se esqueça de rodar o JSON-Server, pois é ele que simula o back end da nossa aplicação, para isso você pode rodar o seguinte comando:
+
+```sh
+$ yarn json-server --watch --delay 700 --host **SEU_IP** db.json
+```
+
+Não se esqueça de substituir o **SEU_IP** pelo IP da sua máquina, caso contrário o APP não vai encontrar o servidor, caso não saiba onde pode ver seu IP você pode [ver aqui](https://www.techtudo.com.br/noticias/2014/03/como-descobrir-o-ip-interno-e-externo-do-seu-computador-entenda.ghtml)
+
 Pronto 🚀🚀🚀, com isso deverá ser aberto uma aba em seu navegador, agora basta você baixar o app do [Expo](https://docs.expo.dev/get-started/installation/) e escanear o QR code no canto inferior esquerdo da página.
